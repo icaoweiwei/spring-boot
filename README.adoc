@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-boot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-boot?ref=badge_shield)
+
 = Spring Boot image:https://ci.spring.io/api/v1/teams/spring-boot/pipelines/spring-boot/jobs/build/badge["Build Status", link="https://ci.spring.io/teams/spring-boot/pipelines/spring-boot?groups=Build"] image:https://badges.gitter.im/Join Chat.svg["Chat",link="https://gitter.im/spring-projects/spring-boot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 :docs: https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference
 
@@ -248,3 +250,7 @@ Boot step-by-step:
 == License
 Spring Boot is Open Source software released under the
 http://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-boot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ficaoweiwei%2Fspring-boot?ref=badge_large)
